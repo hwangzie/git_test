@@ -3,3 +3,4 @@ sebelunya cuman pakai file exp
 seruu belajar di Odin!!!
 
 ini perubahan setelah ganti dari https ke ssh
+nyoba benerin lagi tadi salah
