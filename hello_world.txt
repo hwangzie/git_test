@@ -1,3 +1,5 @@
 pertama kali buat txt pake command line
 sebelunya cuman pakai file exp
 seruu belajar di Odin!!!
+
+ini perubahan setelah ganti dari https ke ssh
